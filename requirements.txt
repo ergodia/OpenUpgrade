@@ -1,3 +1,4 @@
+python-stdnum==1.17
 Babel==2.3.4
 decorator==4.0.10
 docutils==0.12
